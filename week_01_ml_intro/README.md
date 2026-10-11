@@ -11,6 +11,16 @@
 
 
 ### Лекция
+<div style="display: flex; gap: 8px; align-items: baseline; white-space: nowrap; line-height: 1.2; margin-bottom: 16px;">
+  <span>Запись лекции &laquo;Введение в машинное обучение&raquo; доступна на</span>
+  <a href="https://youtu.be/LcvKd42DGQU?si=NMrR7DmzuczEiHHy" target="_blank" rel="noopener" aria-label="Watch on YouTube" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="20" style="vertical-align: bottom;"> YouTube
+  </a>
+  <span>и</span>
+  <a href="https://vkvideo.ru/video-155161349_456239164" target="_blank" rel="noopener" aria-label="Watch on VK" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/vk" alt="VK" width="20" style="vertical-align: bottom;"> VK Видео
+  </a>
+</div>
 Машинное обучение -- это совокупность алгоритмов и методов, позволяющих производить автоматизированное извлечение закономерностей из данных. Нейронная сеть в этом смысле -- всего лишь один из алгоритмов машинного обучения. Именно поэтому мы начинаем основную часть нашего курса с этой темы.
 
 На лекции про машинное обучение вы узнаете, что такое обучение с учителем, как выглядит решение задачи машинного обучения и что такое обучение модели. 
