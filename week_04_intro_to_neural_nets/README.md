@@ -33,17 +33,6 @@
 </div>
 
 <div style="display: flex; gap: 8px; align-items: baseline; white-space: nowrap; line-height: 1.2; margin-bottom: 16px;">
-  <span>Запись лекции &laquo;Лекция. Полносвязная нейронная сеть&raquo; доступна на</span>
-  <a href="https://youtu.be/O0nGKKFyYT4?si=cF8MdrNkFhmefYdj" target="_blank" rel="noopener" aria-label="Watch on YouTube" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="20" style="vertical-align: bottom;"> YouTube
-  </a>
-  <span>и</span>
-  <a href="https://vkvideo.ru/video-155161349_456239206" target="_blank" rel="noopener" aria-label="Watch on VK" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/vk" alt="VK" width="20" style="vertical-align: bottom;"> VK Видео
-  </a>
-</div>
-
-<div style="display: flex; gap: 8px; align-items: baseline; white-space: nowrap; line-height: 1.2; margin-bottom: 16px;">
   <span>Запись лекции &laquo;Введение в нейронные сети. Часть 3. Функции активации. Краткий обзор применений CNN и RNN
 &raquo; доступна на</span>
   <a href="https://youtu.be/3F7rydcAa0w?si=1nZPPFCA_8VXCTHH" target="_blank" rel="noopener" aria-label="Watch on YouTube" style="text-decoration: none;">
