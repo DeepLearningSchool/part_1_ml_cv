@@ -56,17 +56,6 @@
 </div>
 
 <div style="display: flex; gap: 8px; align-items: baseline; white-space: nowrap; line-height: 1.2; margin-bottom: 16px;">
-  <span>Запись семинара &laquo;Семинар. Введение в анализ данных. Библиотеки Pandas, Matplotlib. Часть 2&raquo; доступна на</span>
-  <a href="https://youtu.be/PI57kYeODnY?si=y4YSGTFSFba69Rqr" target="_blank" rel="noopener" aria-label="Watch on YouTube" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="20" style="vertical-align: bottom;"> YouTube
-  </a>
-  <span>и</span>
-  <a href="https://vkvideo.ru/video-155161349_456239166" target="_blank" rel="noopener" aria-label="Watch on VK" style="text-decoration: none;">
-    <img src="https://cdn.simpleicons.org/vk" alt="VK" width="20" style="vertical-align: bottom;"> VK Видео
-  </a>
-</div>
-
-<div style="display: flex; gap: 8px; align-items: baseline; white-space: nowrap; line-height: 1.2; margin-bottom: 16px;">
   <span>Запись семинара &laquo;Семинар. Введение в анализ данных. Библиотеки Pandas, Matplotlib. Часть 3&raquo; доступна на</span>
   <a href="https://youtu.be/zFW0PRjDLQM?si=4RiW1-rbG4asKM2b" target="_blank" rel="noopener" aria-label="Watch on YouTube" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="20" style="vertical-align: bottom;"> YouTube
