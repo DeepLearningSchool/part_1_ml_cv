@@ -12,7 +12,7 @@
 
 ### Лекция
 <div style="display: flex; gap: 8px; align-items: baseline; white-space: nowrap; line-height: 1.2; margin-bottom: 16px;">
-  <span>Запись лекции &laquo;Введение в аудио&raquo; доступна на</span>
+  <span>Запись лекции &laquo;Введение в машинное обучение&raquo; доступна на</span>
   <a href="https://youtu.be/LcvKd42DGQU?si=NMrR7DmzuczEiHHy" target="_blank" rel="noopener" aria-label="Watch on YouTube" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="20" style="vertical-align: bottom;"> YouTube
   </a>
