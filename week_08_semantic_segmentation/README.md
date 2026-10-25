@@ -48,7 +48,7 @@
 
 <div style="display: flex; gap: 8px; align-items: baseline; white-space: nowrap; line-height: 1.2; margin-bottom: 16px;">
   <span>Запись лекции &laquo;Открытая лекция. Задачи интерактивной сегментации&raquo; доступна на</span>
-  <a href="https://www.youtube.com/embed/OqSXyJjgKak?si=vE75i6ChruL8kZTA" target="_blank" rel="noopener" aria-label="Watch on YouTube" style="text-decoration: none;">
+  <a href="https://youtu.be/OqSXyJjgKak?si=4loaA37mXcAH0Egq" target="_blank" rel="noopener" aria-label="Watch on YouTube" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/youtube" alt="YouTube" width="20" style="vertical-align: bottom;"> YouTube
   </a>
   <span>и</span>
